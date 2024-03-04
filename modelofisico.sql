@@ -1,4 +1,4 @@
- drop database perguntasrespostas;
+-- drop database perguntasrespostas;
 create database perguntasrespostas;
 use perguntasrespostas;
 
